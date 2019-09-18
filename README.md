@@ -1,4 +1,4 @@
-# pdd
+# shops
 
 ## Project setup
 ```
